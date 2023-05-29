@@ -1,0 +1,2 @@
+# Algorithm-JS
+Salary calculate.
